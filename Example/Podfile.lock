@@ -1,0 +1,16 @@
+PODS:
+  - publicCode (0.1.0)
+
+DEPENDENCIES:
+  - publicCode (from `../`)
+
+EXTERNAL SOURCES:
+  publicCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  publicCode: 44ae370df3b135ee0643138afa8308bf7c5a7d64
+
+PODFILE CHECKSUM: a5ec0a481feafc688e4b66f48b1858c865cdac57
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module publicCode {
+  umbrella header "publicCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

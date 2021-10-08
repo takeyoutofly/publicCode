@@ -1,0 +1,22 @@
+{
+  "name": "publicCode",
+  "version": "0.1.0",
+  "summary": "A short description of publicCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/takeyoutofly/publicCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "takeyoutofly": "804629964@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/takeyoutofly/publicCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "publicCode/Classes/**/*"
+}
